@@ -1,1 +1,1 @@
-pytest -n=4 --html=HtmlReports/githtmlreport.html --allure="AllureReports"
+pytest -n=4 --html=HtmlReports/githtmlreport.html --alluredir="AllureReports"
