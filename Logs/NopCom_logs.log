@@ -1,0 +1,245 @@
+ 2024-02-04 21:02:25,536 : INFO : Test_URL_Login : test_user_login_002 : 37 : Test_case test_user_login_002 is started 
+ 2024-02-04 21:02:25,537 : INFO : Test_URL_Login : test_user_login_002 : 39 : Opening browser and navigating to demo_nop_com 
+ 2024-02-04 21:02:25,537 : INFO : Test_URL_Login : test_user_login_002 : 41 : Entering email-admin@yourstore.com 
+ 2024-02-04 21:02:25,546 : INFO : Test_URL_Login : test_verify_url_001 : 21 : page Title is -->Your store. Login 
+ 2024-02-04 21:02:25,553 : INFO : Test_URL_Login : test_verify_url_001 : 24 : Test_Case test_verify_url_001 is passed 
+ 2024-02-04 21:02:25,553 : INFO : Test_URL_Login : test_verify_url_001 : 25 : Taking screenshot 
+ 2024-02-04 21:02:25,663 : INFO : Test_URL_Login : test_verify_url_001 : 33 : Test_case test_verify_url_001 is Completed 
+ 2024-02-04 21:02:25,691 : INFO : Test_URL_Login : test_user_login_002 : 43 : Entering password-admin 
+ 2024-02-04 21:02:25,849 : INFO : Test_URL_Login : test_user_login_002 : 45 : Clicking on login button 
+ 2024-02-04 21:02:28,917 : INFO : Test_URL_Login : test_user_login_002 : 49 : Test_case test_user_login_002 is passed 
+ 2024-02-04 21:02:28,917 : INFO : Test_URL_Login : test_user_login_002 : 50 : Taking screenshot 
+ 2024-02-04 21:02:28,980 : INFO : Test_URL_Login : test_user_login_002 : 52 : Click on Logout button 
+ 2024-02-04 21:02:30,487 : INFO : Test_URL_Login : test_user_login_002 : 60 : Test_case test_user_login_002 is Completed 
+ 2024-02-04 21:07:52,190 : INFO : Test_URL_Login : test_user_login_002 : 37 : Test_case test_user_login_002 is started 
+ 2024-02-04 21:07:52,215 : INFO : Test_URL_Login : test_user_login_002 : 39 : Opening browser and navigating to demo_nop_com 
+ 2024-02-04 21:07:52,215 : INFO : Test_URL_Login : test_user_login_002 : 41 : Entering email-admin@yourstore.com 
+ 2024-02-04 21:07:52,416 : INFO : Test_URL_Login : test_user_login_002 : 43 : Entering password-admin 
+ 2024-02-04 21:07:52,530 : INFO : Test_URL_Login : test_verify_url_001 : 18 : test_case test_verify_url_001 is started 
+ 2024-02-04 21:07:52,530 : INFO : Test_URL_Login : test_verify_url_001 : 20 : opening browser and navigating to demo_nop_com 
+ 2024-02-04 21:07:52,537 : INFO : Test_URL_Login : test_verify_url_001 : 21 : page Title is -->Your store. Login 
+ 2024-02-04 21:07:52,544 : INFO : Test_URL_Login : test_verify_url_001 : 24 : Test_Case test_verify_url_001 is passed 
+ 2024-02-04 21:07:52,544 : INFO : Test_URL_Login : test_verify_url_001 : 25 : Taking screenshot 
+ 2024-02-04 21:07:52,587 : INFO : Test_URL_Login : test_user_login_002 : 45 : Clicking on login button 
+ 2024-02-04 21:07:52,617 : INFO : Test_URL_Login : test_verify_url_001 : 33 : Test_case test_verify_url_001 is Completed 
+ 2024-02-04 21:07:55,614 : INFO : Test_URL_Login : test_user_login_002 : 49 : Test_case test_user_login_002 is passed 
+ 2024-02-04 21:07:55,614 : INFO : Test_URL_Login : test_user_login_002 : 50 : Taking screenshot 
+ 2024-02-04 21:07:55,682 : INFO : Test_URL_Login : test_user_login_002 : 52 : Click on Logout button 
+ 2024-02-04 21:07:57,251 : INFO : Test_URL_Login : test_user_login_002 : 60 : Test_case test_user_login_002 is Completed 
+ 2024-02-04 21:30:34,229 : INFO : Test_URL_Login : test_user_login_002 : 37 : Test_case test_user_login_002 is started 
+ 2024-02-04 21:30:34,354 : INFO : Test_URL_Login : test_user_login_002 : 39 : Opening browser and navigating to demo_nop_com 
+ 2024-02-04 21:30:34,355 : INFO : Test_URL_Login : test_user_login_002 : 41 : Entering email-admin@yourstore.com 
+ 2024-02-04 21:30:34,456 : INFO : Test_URL_Login : test_verify_url_001 : 18 : test_case test_verify_url_001 is started 
+ 2024-02-04 21:30:34,456 : INFO : Test_URL_Login : test_verify_url_001 : 20 : opening browser and navigating to demo_nop_com 
+ 2024-02-04 21:30:34,464 : INFO : Test_URL_Login : test_verify_url_001 : 21 : page Title is -->Your store. Login 
+ 2024-02-04 21:30:34,470 : INFO : Test_URL_Login : test_verify_url_001 : 24 : Test_Case test_verify_url_001 is passed 
+ 2024-02-04 21:30:34,470 : INFO : Test_URL_Login : test_verify_url_001 : 25 : Taking screenshot 
+ 2024-02-04 21:30:34,743 : INFO : Test_URL_Login : test_user_login_002 : 43 : Entering password-admin 
+ 2024-02-04 21:30:34,902 : INFO : Test_URL_Login : test_user_login_002 : 45 : Clicking on login button 
+ 2024-02-04 21:30:37,288 : INFO : Test_URL_Login : test_verify_url_001 : 33 : Test_case test_verify_url_001 is Completed 
+ 2024-02-04 21:30:38,060 : INFO : Test_URL_Login : test_user_login_002 : 49 : Test_case test_user_login_002 is passed 
+ 2024-02-04 21:30:38,060 : INFO : Test_URL_Login : test_user_login_002 : 50 : Taking screenshot 
+ 2024-02-04 21:30:39,871 : INFO : Test_URL_Login : test_user_login_002 : 52 : Click on Logout button 
+ 2024-02-04 21:30:41,355 : INFO : Test_URL_Login : test_user_login_002 : 60 : Test_case test_user_login_002 is Completed 
+ 2024-02-06 07:20:48,113 : INFO : Test_URL_Login : test_verify_url_001 : 18 : test_case test_verify_url_001 is started 
+ 2024-02-06 07:20:48,141 : INFO : Test_URL_Login : test_verify_url_001 : 20 : opening browser and navigating to demo_nop_com 
+ 2024-02-06 07:20:48,162 : INFO : Test_URL_Login : test_verify_url_001 : 21 : page Title is -->Your store. Login 
+ 2024-02-06 07:20:48,175 : INFO : Test_URL_Login : test_verify_url_001 : 24 : Test_Case test_verify_url_001 is passed 
+ 2024-02-06 07:20:48,175 : INFO : Test_URL_Login : test_verify_url_001 : 25 : Taking screenshot 
+ 2024-02-06 07:20:48,341 : INFO : Test_URL_Login : test_verify_url_001 : 33 : Test_case test_verify_url_001 is Completed 
+ 2024-02-06 07:20:56,526 : INFO : Test_URL_Login : test_user_login_002 : 37 : Test_case test_user_login_002 is started 
+ 2024-02-06 07:20:56,526 : INFO : Test_URL_Login : test_user_login_002 : 39 : Opening browser and navigating to demo_nop_com 
+ 2024-02-06 07:20:56,527 : INFO : Test_URL_Login : test_user_login_002 : 41 : Entering email-admin@yourstore.com 
+ 2024-02-06 07:20:57,266 : INFO : Test_URL_Login : test_user_login_002 : 43 : Entering password-admin 
+ 2024-02-06 07:20:57,433 : INFO : Test_URL_Login : test_user_login_002 : 45 : Clicking on login button 
+ 2024-02-06 07:21:00,534 : INFO : Test_URL_Login : test_user_login_002 : 49 : Test_case test_user_login_002 is passed 
+ 2024-02-06 07:21:00,534 : INFO : Test_URL_Login : test_user_login_002 : 50 : Taking screenshot 
+ 2024-02-06 07:21:00,613 : INFO : Test_URL_Login : test_user_login_002 : 52 : Click on Logout button 
+ 2024-02-06 07:21:01,892 : INFO : Test_URL_Login : test_user_login_002 : 60 : Test_case test_user_login_002 is Completed 
+ 2024-02-06 12:11:12,249 : INFO : Test_URL_Login : test_user_login_002 : 37 : Test_case test_user_login_002 is started 
+ 2024-02-06 12:11:12,258 : INFO : Test_URL_Login : test_user_login_002 : 39 : Opening browser and navigating to demo_nop_com 
+ 2024-02-06 12:11:12,259 : INFO : Test_URL_Login : test_user_login_002 : 41 : Entering email-admin@yourstore.com 
+ 2024-02-06 12:11:12,414 : INFO : Test_URL_Login : test_user_login_002 : 43 : Entering password-admin 
+ 2024-02-06 12:11:12,435 : INFO : Test_URL_Login : test_verify_url_001 : 18 : test_case test_verify_url_001 is started 
+ 2024-02-06 12:11:12,435 : INFO : Test_URL_Login : test_verify_url_001 : 20 : opening browser and navigating to demo_nop_com 
+ 2024-02-06 12:11:12,506 : INFO : Test_URL_Login : test_user_login_002 : 45 : Clicking on login button 
+ 2024-02-06 12:11:12,958 : INFO : Test_URL_Login : test_verify_url_001 : 21 : page Title is -->Your store. Login 
+ 2024-02-06 12:11:12,961 : INFO : Test_URL_Login : test_verify_url_001 : 24 : Test_Case test_verify_url_001 is passed 
+ 2024-02-06 12:11:12,961 : INFO : Test_URL_Login : test_verify_url_001 : 25 : Taking screenshot 
+ 2024-02-06 12:11:13,026 : INFO : Test_URL_Login : test_verify_url_001 : 33 : Test_case test_verify_url_001 is Completed 
+ 2024-02-06 12:12:57,517 : INFO : Test_URL_Login : test_verify_url_001 : 18 : test_case test_verify_url_001 is started 
+ 2024-02-06 12:12:57,517 : INFO : Test_URL_Login : test_verify_url_001 : 20 : opening browser and navigating to demo_nop_com 
+ 2024-02-06 12:12:57,525 : INFO : Test_URL_Login : test_verify_url_001 : 21 : page Title is -->Your store. Login 
+ 2024-02-06 12:12:57,566 : INFO : Test_URL_Login : test_verify_url_001 : 24 : Test_Case test_verify_url_001 is passed 
+ 2024-02-06 12:12:57,566 : INFO : Test_URL_Login : test_verify_url_001 : 25 : Taking screenshot 
+ 2024-02-06 12:12:57,623 : INFO : Test_URL_Login : test_verify_url_001 : 33 : Test_case test_verify_url_001 is Completed 
+ 2024-02-06 12:13:06,292 : INFO : Test_URL_Login : test_user_login_002 : 37 : Test_case test_user_login_002 is started 
+ 2024-02-06 12:13:06,292 : INFO : Test_URL_Login : test_user_login_002 : 39 : Opening browser and navigating to demo_nop_com 
+ 2024-02-06 12:13:06,292 : INFO : Test_URL_Login : test_user_login_002 : 41 : Entering email-admin@yourstore.com 
+ 2024-02-06 12:13:06,419 : INFO : Test_URL_Login : test_user_login_002 : 43 : Entering password-admin 
+ 2024-02-06 12:13:06,537 : INFO : Test_URL_Login : test_user_login_002 : 45 : Clicking on login button 
+ 2024-02-06 12:13:47,035 : INFO : Test_URL_Login : test_user_login_002 : 56 : Test_case test_user_login_002 is failed 
+ 2024-02-06 12:13:47,035 : INFO : Test_URL_Login : test_user_login_002 : 57 : Taking screenshot 
+ 2024-02-06 12:16:21,199 : INFO : Test_URL_Login : test_user_login_002 : 49 : Test_case test_user_login_002 is passed 
+ 2024-02-06 12:16:21,199 : INFO : Test_URL_Login : test_user_login_002 : 50 : Taking screenshot 
+ 2024-02-06 12:16:21,291 : INFO : Test_URL_Login : test_user_login_002 : 52 : Click on Logout button 
+ 2024-02-06 12:16:22,381 : INFO : Test_URL_Login : test_user_login_002 : 60 : Test_case test_user_login_002 is Completed 
+ 2024-02-06 12:34:23,435 : INFO : Test_URL_Login : test_verify_url_001 : 18 : test_case test_verify_url_001 is started 
+ 2024-02-06 12:34:23,457 : INFO : Test_URL_Login : test_verify_url_001 : 20 : opening browser and navigating to demo_nop_com 
+ 2024-02-06 12:34:23,464 : INFO : Test_URL_Login : test_verify_url_001 : 21 : page Title is -->Your store. Login 
+ 2024-02-06 12:34:23,467 : INFO : Test_URL_Login : test_verify_url_001 : 24 : Test_Case test_verify_url_001 is passed 
+ 2024-02-06 12:34:23,467 : INFO : Test_URL_Login : test_verify_url_001 : 25 : Taking screenshot 
+ 2024-02-06 12:34:23,525 : INFO : Test_URL_Login : test_verify_url_001 : 33 : Test_case test_verify_url_001 is Completed 
+ 2024-02-06 12:34:31,202 : INFO : Test_URL_Login : test_user_login_002 : 37 : Test_case test_user_login_002 is started 
+ 2024-02-06 12:34:31,202 : INFO : Test_URL_Login : test_user_login_002 : 39 : Opening browser and navigating to demo_nop_com 
+ 2024-02-06 12:34:31,203 : INFO : Test_URL_Login : test_user_login_002 : 41 : Entering email-admin@yourstore.com 
+ 2024-02-06 12:34:31,303 : INFO : Test_URL_Login : test_user_login_002 : 43 : Entering password-admin 
+ 2024-02-06 12:34:31,367 : INFO : Test_URL_Login : test_user_login_002 : 45 : Clicking on login button 
+ 2024-02-06 12:34:34,896 : INFO : Test_URL_Login : test_user_login_002 : 49 : Test_case test_user_login_002 is passed 
+ 2024-02-06 12:34:34,896 : INFO : Test_URL_Login : test_user_login_002 : 50 : Taking screenshot 
+ 2024-02-06 12:34:35,010 : INFO : Test_URL_Login : test_user_login_002 : 52 : Click on Logout button 
+ 2024-02-06 12:34:37,165 : INFO : Test_URL_Login : test_user_login_002 : 60 : Test_case test_user_login_002 is Completed 
+ 2024-02-07 00:26:54,741 : INFO : Test_URL_Login : test_verify_url_001 : 18 : test_case test_verify_url_001 is started 
+ 2024-02-07 00:26:54,860 : INFO : Test_URL_Login : test_verify_url_001 : 20 : opening browser and navigating to demo_nop_com 
+ 2024-02-07 00:26:54,887 : INFO : Test_URL_Login : test_verify_url_001 : 21 : page Title is -->Your store. Login 
+ 2024-02-07 00:26:54,898 : INFO : Test_URL_Login : test_verify_url_001 : 24 : Test_Case test_verify_url_001 is passed 
+ 2024-02-07 00:26:54,898 : INFO : Test_URL_Login : test_verify_url_001 : 25 : Taking screenshot 
+ 2024-02-07 00:26:54,951 : INFO : Test_URL_Login : test_verify_url_001 : 33 : Test_case test_verify_url_001 is Completed 
+ 2024-02-07 00:27:02,234 : INFO : Test_URL_Login : test_user_login_002 : 37 : Test_case test_user_login_002 is started 
+ 2024-02-07 00:27:02,354 : INFO : Test_URL_Login : test_user_login_002 : 39 : Opening browser and navigating to demo_nop_com 
+ 2024-02-07 00:27:02,354 : INFO : Test_URL_Login : test_user_login_002 : 41 : Entering email-admin@yourstore.com 
+ 2024-02-07 00:27:02,696 : INFO : Test_URL_Login : test_user_login_002 : 43 : Entering password-admin 
+ 2024-02-07 00:27:02,879 : INFO : Test_URL_Login : test_user_login_002 : 45 : Clicking on login button 
+ 2024-02-07 00:27:05,961 : INFO : Test_URL_Login : test_user_login_002 : 49 : Test_case test_user_login_002 is passed 
+ 2024-02-07 00:27:05,961 : INFO : Test_URL_Login : test_user_login_002 : 50 : Taking screenshot 
+ 2024-02-07 00:27:06,049 : INFO : Test_URL_Login : test_user_login_002 : 52 : Click on Logout button 
+ 2024-02-07 00:27:07,285 : INFO : Test_URL_Login : test_user_login_002 : 60 : Test_case test_user_login_002 is Completed 
+ 2024-02-07 00:29:43,114 : INFO : Test_URL_Login : test_verify_url_001 : 18 : test_case test_verify_url_001 is started 
+ 2024-02-07 00:29:43,217 : INFO : Test_URL_Login : test_verify_url_001 : 20 : opening browser and navigating to demo_nop_com 
+ 2024-02-07 00:29:43,254 : INFO : Test_URL_Login : test_verify_url_001 : 21 : page Title is -->Your store. Login 
+ 2024-02-07 00:29:43,266 : INFO : Test_URL_Login : test_verify_url_001 : 24 : Test_Case test_verify_url_001 is passed 
+ 2024-02-07 00:29:43,266 : INFO : Test_URL_Login : test_verify_url_001 : 25 : Taking screenshot 
+ 2024-02-07 00:29:43,376 : INFO : Test_URL_Login : test_verify_url_001 : 33 : Test_case test_verify_url_001 is Completed 
+ 2024-02-07 00:29:43,712 : INFO : Test_URL_Login : test_user_login_002 : 37 : Test_case test_user_login_002 is started 
+ 2024-02-07 00:29:43,712 : INFO : Test_URL_Login : test_user_login_002 : 39 : Opening browser and navigating to demo_nop_com 
+ 2024-02-07 00:29:43,712 : INFO : Test_URL_Login : test_user_login_002 : 41 : Entering email-admin@yourstore.com 
+ 2024-02-07 00:29:44,124 : INFO : Test_URL_Login : test_user_login_002 : 43 : Entering password-admin 
+ 2024-02-07 00:29:44,411 : INFO : Test_URL_Login : test_user_login_002 : 45 : Clicking on login button 
+ 2024-02-07 00:29:47,529 : INFO : Test_URL_Login : test_user_login_002 : 49 : Test_case test_user_login_002 is passed 
+ 2024-02-07 00:29:47,529 : INFO : Test_URL_Login : test_user_login_002 : 50 : Taking screenshot 
+ 2024-02-07 00:29:47,682 : INFO : Test_URL_Login : test_user_login_002 : 52 : Click on Logout button 
+ 2024-02-07 00:29:48,914 : INFO : Test_URL_Login : test_user_login_002 : 60 : Test_case test_user_login_002 is Completed 
+ 2024-02-07 00:33:57,150 : INFO : Test_URL_Login : test_verify_url_001 : 18 : test_case test_verify_url_001 is started 
+ 2024-02-07 00:33:57,150 : INFO : Test_URL_Login : test_verify_url_001 : 20 : opening browser and navigating to demo_nop_com 
+ 2024-02-07 00:33:57,163 : INFO : Test_URL_Login : test_verify_url_001 : 21 : page Title is -->Your store. Login 
+ 2024-02-07 00:33:57,171 : INFO : Test_URL_Login : test_verify_url_001 : 24 : Test_Case test_verify_url_001 is passed 
+ 2024-02-07 00:33:57,171 : INFO : Test_URL_Login : test_verify_url_001 : 25 : Taking screenshot 
+ 2024-02-07 00:33:57,245 : INFO : Test_URL_Login : test_verify_url_001 : 33 : Test_case test_verify_url_001 is Completed 
+ 2024-02-07 00:34:04,726 : INFO : Test_URL_Login : test_user_login_002 : 37 : Test_case test_user_login_002 is started 
+ 2024-02-07 00:34:04,726 : INFO : Test_URL_Login : test_user_login_002 : 39 : Opening browser and navigating to demo_nop_com 
+ 2024-02-07 00:34:04,726 : INFO : Test_URL_Login : test_user_login_002 : 41 : Entering email-admin@yourstore.com 
+ 2024-02-07 00:34:04,934 : INFO : Test_URL_Login : test_user_login_002 : 43 : Entering password-admin 
+ 2024-02-07 00:34:05,126 : INFO : Test_URL_Login : test_user_login_002 : 45 : Clicking on login button 
+ 2024-02-07 00:34:07,948 : INFO : Test_URL_Login : test_user_login_002 : 49 : Test_case test_user_login_002 is passed 
+ 2024-02-07 00:34:08,038 : INFO : Test_URL_Login : test_user_login_002 : 50 : Taking screenshot 
+ 2024-02-07 00:34:08,110 : INFO : Test_URL_Login : test_user_login_002 : 52 : Click on Logout button 
+ 2024-02-07 00:34:09,340 : INFO : Test_URL_Login : test_user_login_002 : 60 : Test_case test_user_login_002 is Completed 
+ 2024-02-07 00:35:48,415 : INFO : Test_URL_Login : test_user_login_002 : 37 : Test_case test_user_login_002 is started 
+ 2024-02-07 00:35:48,415 : INFO : Test_URL_Login : test_user_login_002 : 39 : Opening browser and navigating to demo_nop_com 
+ 2024-02-07 00:35:48,415 : INFO : Test_URL_Login : test_user_login_002 : 41 : Entering email-admin@yourstore.com 
+ 2024-02-07 00:35:48,624 : INFO : Test_URL_Login : test_user_login_002 : 43 : Entering password-admin 
+ 2024-02-07 00:35:48,844 : INFO : Test_URL_Login : test_user_login_002 : 45 : Clicking on login button 
+ 2024-02-07 00:35:49,240 : INFO : Test_URL_Login : test_verify_url_001 : 18 : test_case test_verify_url_001 is started 
+ 2024-02-07 00:35:49,240 : INFO : Test_URL_Login : test_verify_url_001 : 20 : opening browser and navigating to demo_nop_com 
+ 2024-02-07 00:35:49,257 : INFO : Test_URL_Login : test_verify_url_001 : 21 : page Title is -->Your store. Login 
+ 2024-02-07 00:35:49,265 : INFO : Test_URL_Login : test_verify_url_001 : 24 : Test_Case test_verify_url_001 is passed 
+ 2024-02-07 00:35:49,265 : INFO : Test_URL_Login : test_verify_url_001 : 25 : Taking screenshot 
+ 2024-02-07 00:35:49,332 : INFO : Test_URL_Login : test_verify_url_001 : 33 : Test_case test_verify_url_001 is Completed 
+ 2024-02-07 00:35:51,841 : INFO : Test_URL_Login : test_user_login_002 : 49 : Test_case test_user_login_002 is passed 
+ 2024-02-07 00:35:51,841 : INFO : Test_URL_Login : test_user_login_002 : 50 : Taking screenshot 
+ 2024-02-07 00:35:51,948 : INFO : Test_URL_Login : test_user_login_002 : 52 : Click on Logout button 
+ 2024-02-07 00:35:53,211 : INFO : Test_URL_Login : test_user_login_002 : 60 : Test_case test_user_login_002 is Completed 
+ 2024-02-07 00:38:27,514 : INFO : Test_URL_Login : test_user_login_002 : 37 : Test_case test_user_login_002 is started 
+ 2024-02-07 00:38:27,514 : INFO : Test_URL_Login : test_user_login_002 : 39 : Opening browser and navigating to demo_nop_com 
+ 2024-02-07 00:38:27,514 : INFO : Test_URL_Login : test_user_login_002 : 41 : Entering email-admin@yourstore.com 
+ 2024-02-07 00:38:27,516 : INFO : Test_URL_Login : test_verify_url_001 : 18 : test_case test_verify_url_001 is started 
+ 2024-02-07 00:38:27,516 : INFO : Test_URL_Login : test_verify_url_001 : 20 : opening browser and navigating to demo_nop_com 
+ 2024-02-07 00:38:27,526 : INFO : Test_URL_Login : test_verify_url_001 : 21 : page Title is -->Your store. Login 
+ 2024-02-07 00:38:27,531 : INFO : Test_URL_Login : test_verify_url_001 : 24 : Test_Case test_verify_url_001 is passed 
+ 2024-02-07 00:38:27,531 : INFO : Test_URL_Login : test_verify_url_001 : 25 : Taking screenshot 
+ 2024-02-07 00:38:27,620 : INFO : Test_URL_Login : test_verify_url_001 : 33 : Test_case test_verify_url_001 is Completed 
+ 2024-02-07 00:38:27,768 : INFO : Test_URL_Login : test_user_login_002 : 43 : Entering password-admin 
+ 2024-02-07 00:38:28,072 : INFO : Test_URL_Login : test_user_login_002 : 45 : Clicking on login button 
+ 2024-02-07 00:38:30,960 : INFO : Test_URL_Login : test_user_login_002 : 49 : Test_case test_user_login_002 is passed 
+ 2024-02-07 00:38:30,960 : INFO : Test_URL_Login : test_user_login_002 : 50 : Taking screenshot 
+ 2024-02-07 00:38:31,012 : INFO : Test_URL_Login : test_user_login_002 : 52 : Click on Logout button 
+ 2024-02-07 00:38:32,438 : INFO : Test_URL_Login : test_user_login_002 : 60 : Test_case test_user_login_002 is Completed 
+ 2024-02-07 22:39:34,428 : INFO : Test_URL_Login : test_verify_url_001 : 18 : test_case test_verify_url_001 is started 
+ 2024-02-07 22:39:34,512 : INFO : Test_URL_Login : test_user_login_002 : 39 : Opening browser and navigating to demo_nop_com 
+ 2024-02-07 22:39:34,512 : INFO : Test_URL_Login : test_verify_url_001 : 20 : opening browser and navigating to demo_nop_com 
+ 2024-02-07 22:39:34,512 : INFO : Test_URL_Login : test_user_login_002 : 41 : Entering email-admin@yourstore.com 
+ 2024-02-07 22:39:34,597 : INFO : Test_URL_Login : test_verify_url_001 : 21 : page Title is -->Your store. Login 
+ 2024-02-07 22:39:34,606 : INFO : Test_URL_Login : test_verify_url_001 : 24 : Test_Case test_verify_url_001 is passed 
+ 2024-02-07 22:39:34,606 : INFO : Test_URL_Login : test_verify_url_001 : 25 : Taking screenshot 
+ 2024-02-07 22:39:34,652 : INFO : Test_URL_Login : test_verify_url_001 : 33 : Test_case test_verify_url_001 is Completed 
+ 2024-02-07 22:39:34,872 : INFO : Test_URL_Login : test_user_login_002 : 43 : Entering password-admin 
+ 2024-02-07 22:39:35,075 : INFO : Test_URL_Login : test_user_login_002 : 45 : Clicking on login button 
+ 2024-02-07 22:39:37,977 : INFO : Test_URL_Login : test_user_login_002 : 49 : Test_case test_user_login_002 is passed 
+ 2024-02-07 22:39:37,977 : INFO : Test_URL_Login : test_user_login_002 : 50 : Taking screenshot 
+ 2024-02-07 22:39:38,040 : INFO : Test_URL_Login : test_user_login_002 : 52 : Click on Logout button 
+ 2024-02-07 22:39:39,578 : INFO : Test_URL_Login : test_user_login_002 : 60 : Test_case test_user_login_002 is Completed 
+ 2024-02-08 14:28:21,286 : INFO : Test_URL_Login : test_user_login_002 : 37 : Test_case test_user_login_002 is started 
+ 2024-02-08 14:28:21,287 : INFO : Test_URL_Login : test_user_login_002 : 39 : Opening browser and navigating to demo_nop_com 
+ 2024-02-08 14:28:21,288 : INFO : Test_URL_Login : test_user_login_002 : 41 : Entering email-admin@yourstore.com 
+ 2024-02-08 14:28:21,303 : INFO : Test_URL_Login : test_verify_url_001 : 18 : test_case test_verify_url_001 is started 
+ 2024-02-08 14:28:21,303 : INFO : Test_URL_Login : test_verify_url_001 : 20 : opening browser and navigating to demo_nop_com 
+ 2024-02-08 14:28:21,315 : INFO : Test_URL_Login : test_verify_url_001 : 21 : page Title is -->Your store. Login 
+ 2024-02-08 14:28:21,327 : INFO : Test_URL_Login : test_verify_url_001 : 24 : Test_Case test_verify_url_001 is passed 
+ 2024-02-08 14:28:21,328 : INFO : Test_URL_Login : test_verify_url_001 : 25 : Taking screenshot 
+ 2024-02-08 14:28:21,425 : INFO : Test_URL_Login : test_verify_url_001 : 33 : Test_case test_verify_url_001 is Completed 
+ 2024-02-08 14:28:21,683 : INFO : Test_URL_Login : test_user_login_002 : 43 : Entering password-admin 
+ 2024-02-08 14:28:21,785 : INFO : Test_URL_Login : test_user_login_002 : 45 : Clicking on login button 
+ 2024-02-08 14:30:22,318 : INFO : Test_URL_Login : test_user_login_002 : 49 : Test_case test_user_login_002 is passed 
+ 2024-02-08 14:30:22,318 : INFO : Test_URL_Login : test_user_login_002 : 50 : Taking screenshot 
+ 2024-02-08 14:30:22,444 : INFO : Test_URL_Login : test_user_login_002 : 52 : Click on Logout button 
+ 2024-02-08 14:30:34,525 : INFO : Test_URL_Login : test_user_login_002 : 60 : Test_case test_user_login_002 is Completed 
+ 2024-02-08 20:15:05,280 : INFO : Test_URL_Login : test_verify_url_001 : 18 : test_case test_verify_url_001 is started 
+ 2024-02-08 20:15:05,369 : INFO : Test_URL_Login : test_verify_url_001 : 20 : opening browser and navigating to demo_nop_com 
+ 2024-02-08 20:15:05,383 : INFO : Test_URL_Login : test_verify_url_001 : 21 : page Title is -->admin-demo.nopcommerce.com | 520: Web server is returning an unknown error 
+ 2024-02-08 20:15:05,387 : INFO : Test_URL_Login : test_verify_url_001 : 29 : Test_Case test_verify_url_001 is failed 
+ 2024-02-08 20:15:05,387 : INFO : Test_URL_Login : test_verify_url_001 : 30 : Taking screenshort 
+ 2024-02-08 20:15:06,341 : INFO : Test_URL_Login : test_user_login_002 : 37 : Test_case test_user_login_002 is started 
+ 2024-02-08 20:15:06,341 : INFO : Test_URL_Login : test_user_login_002 : 39 : Opening browser and navigating to demo_nop_com 
+ 2024-02-08 20:15:06,342 : INFO : Test_URL_Login : test_user_login_002 : 41 : Entering email-admin@yourstore.com 
+ 2024-02-08 20:15:06,517 : INFO : Test_URL_Login : test_user_login_002 : 43 : Entering password-admin 
+ 2024-02-08 20:15:06,722 : INFO : Test_URL_Login : test_user_login_002 : 45 : Clicking on login button 
+ 2024-02-08 20:34:56,521 : INFO : Test_URL_Login : test_verify_url_001 : 18 : test_case test_verify_url_001 is started 
+ 2024-02-08 20:34:56,537 : INFO : Test_URL_Login : test_verify_url_001 : 20 : opening browser and navigating to demo_nop_com 
+ 2024-02-08 20:34:56,553 : INFO : Test_URL_Login : test_verify_url_001 : 21 : page Title is -->Your store. Login 
+ 2024-02-08 20:34:56,562 : INFO : Test_URL_Login : test_verify_url_001 : 24 : Test_Case test_verify_url_001 is passed 
+ 2024-02-08 20:34:56,562 : INFO : Test_URL_Login : test_verify_url_001 : 25 : Taking screenshot 
+ 2024-02-08 20:34:56,659 : INFO : Test_URL_Login : test_verify_url_001 : 33 : Test_case test_verify_url_001 is Completed 
+ 2024-02-08 20:34:56,844 : INFO : Test_URL_Login : test_user_login_002 : 37 : Test_case test_user_login_002 is started 
+ 2024-02-08 20:34:56,844 : INFO : Test_URL_Login : test_user_login_002 : 39 : Opening browser and navigating to demo_nop_com 
+ 2024-02-08 20:34:56,844 : INFO : Test_URL_Login : test_user_login_002 : 41 : Entering email-admin@yourstore.com 
+ 2024-02-08 20:34:57,099 : INFO : Test_URL_Login : test_user_login_002 : 43 : Entering password-admin 
+ 2024-02-08 20:34:57,387 : INFO : Test_URL_Login : test_user_login_002 : 45 : Clicking on login button 
+ 2024-02-08 20:35:31,982 : INFO : Test_URL_Login : test_user_login_002 : 49 : Test_case test_user_login_002 is passed 
+ 2024-02-08 20:35:31,982 : INFO : Test_URL_Login : test_user_login_002 : 50 : Taking screenshot 
+ 2024-02-08 20:35:32,065 : INFO : Test_URL_Login : test_user_login_002 : 52 : Click on Logout button 
+ 2024-02-08 20:35:34,191 : INFO : Test_URL_Login : test_user_login_002 : 60 : Test_case test_user_login_002 is Completed 
+ 2024-02-08 20:48:28,506 : INFO : Test_URL_Login : test_verify_url_001 : 18 : test_case test_verify_url_001 is started 
+ 2024-02-08 20:48:28,531 : INFO : Test_URL_Login : test_verify_url_001 : 20 : opening browser and navigating to demo_nop_com 
+ 2024-02-08 20:48:28,546 : INFO : Test_URL_Login : test_verify_url_001 : 21 : page Title is -->Your store. Login 
+ 2024-02-08 20:48:28,556 : INFO : Test_URL_Login : test_verify_url_001 : 24 : Test_Case test_verify_url_001 is passed 
+ 2024-02-08 20:48:28,556 : INFO : Test_URL_Login : test_verify_url_001 : 25 : Taking screenshot 
+ 2024-02-08 20:48:28,623 : INFO : Test_URL_Login : test_verify_url_001 : 33 : Test_case test_verify_url_001 is Completed 
+ 2024-02-08 20:48:31,550 : INFO : Test_URL_Login : test_user_login_002 : 37 : Test_case test_user_login_002 is started 
+ 2024-02-08 20:48:31,550 : INFO : Test_URL_Login : test_user_login_002 : 39 : Opening browser and navigating to demo_nop_com 
+ 2024-02-08 20:48:31,550 : INFO : Test_URL_Login : test_user_login_002 : 41 : Entering email-admin@yourstore.com 
+ 2024-02-08 20:48:31,777 : INFO : Test_URL_Login : test_user_login_002 : 43 : Entering password-admin 
+ 2024-02-08 20:48:31,971 : INFO : Test_URL_Login : test_user_login_002 : 45 : Clicking on login button 
+ 2024-02-08 20:49:42,349 : INFO : Test_URL_Login : test_user_login_002 : 49 : Test_case test_user_login_002 is passed 
+ 2024-02-08 20:49:42,351 : INFO : Test_URL_Login : test_user_login_002 : 50 : Taking screenshot 
+ 2024-02-08 20:49:42,413 : INFO : Test_URL_Login : test_user_login_002 : 52 : Click on Logout button 
+ 2024-02-08 20:49:43,552 : INFO : Test_URL_Login : test_user_login_002 : 60 : Test_case test_user_login_002 is Completed 
